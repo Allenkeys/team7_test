@@ -10,3 +10,5 @@ const sum = (a,b) =>{
 }
 
 sum(3,5);
+
+sum(4,9);
